@@ -1,4 +1,4 @@
-package VariableStudy.baekjoon.fourOperation;
+package baekjoon.fourOperation;
 
 public class printEx2 {
     public static void main(String[] args) {

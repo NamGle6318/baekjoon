@@ -1,4 +1,4 @@
-package VariableStudy.baekjoon.fourOperation;
+package baekjoon.fourOperation;
 
 //백준 문제풀이 1001번 (https://www.acmicpc.net/problem/1001) 참고
 

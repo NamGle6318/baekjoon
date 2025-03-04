@@ -1,4 +1,4 @@
-package VariableStudy.baekjoon.fourOperation;
+package baekjoon.fourOperation;
 
 //백준 문제풀이 입출력과 사칙연산 (https://www.acmicpc.net/) 참고
 
