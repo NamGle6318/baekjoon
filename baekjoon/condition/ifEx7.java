@@ -1,4 +1,4 @@
-package VariableStudy.baekjoon.condition;
+package baekjoon.condition;
 
 import java.util.Scanner;
 
